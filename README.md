@@ -1,16 +1,2 @@
-# klemina_tebeleva
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="359" alt="image" src="https://github.com/MariaTebaaa/Adyshkin/assets/146437103/7c7e663a-41a1-4e44-9185-65c2a57676ba">
